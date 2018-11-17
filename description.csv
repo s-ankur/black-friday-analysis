@@ -4,7 +4,7 @@ Product_ID,Product ID
 Gender,Sex of User
 Age,Age in bins
 Occupation,Occupation (Masked)
-City_Category,Category of the City (A,B,C)
+City_Category,Category of the_City (A B C)
 Stay_In_Current_City_Years,Number of years stay in current city
 Marital_Status,Marital Status
 Product_Category_1,Product Category (Masked)
